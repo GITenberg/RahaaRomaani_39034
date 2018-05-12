@@ -26,6 +26,8 @@ creator:
     - http://sv.wikipedia.org/wiki/Victoria_Benedictsson
     - http://en.wikipedia.org/wiki/Victoria_Benedictsson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39034#RahaaRomaani
 gutenberg_issued: '2012-03-04'
 gutenberg_type: Text
 identifiers:
