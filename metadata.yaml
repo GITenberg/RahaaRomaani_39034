@@ -1,0 +1,41 @@
+_repo: RahaaRomaani_39034
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Setälä, Salme
+    alias: Setala, Salme
+    birthdate: 1894
+    deathdate: 1980
+    gutenberg_agent_id: '39810'
+    url: http://www.gutenberg.org/2009/agents/39810
+    wikipedia: https://fi.wikipedia.org/wiki/Salme_Setälä
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Benedictsson, Victoria
+    aliases:
+    - Benedictsson, Victoria Maria Bruzelius
+    - Ahlgren, Ernst
+    birthdate: 1850
+    deathdate: 1888
+    gutenberg_agent_id: '6211'
+    url: http://www.gutenberg.org/2009/agents/6211
+    wikipedia:
+    - http://sv.wikipedia.org/wiki/Victoria_Benedictsson
+    - http://en.wikipedia.org/wiki/Victoria_Benedictsson
+description: ''
+gutenberg_issued: '2012-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39034'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Swedish fiction -- Translations into Finnish'
+title: 'Rahaa: Romaani'
+url: http://www.gutenberg.org/ebooks/39034
